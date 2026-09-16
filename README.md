@@ -19,6 +19,9 @@
 <a href="https://github.com/krishnasahithisuraboina7">
   <img src="https://img.shields.io/badge/GitHub-krishnasahithisuraboina7-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/krishna-sahithi-suraboina-5b45a92a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Krishna_Sahithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=krishnasahithisuraboina7&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
@@ -407,6 +410,9 @@ Also: Python and Java Projects
 
 <a href="https://github.com/krishnasahithisuraboina7">
   <img src="https://img.shields.io/badge/GitHub-krishnasahithisuraboina7-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/krishna-sahithi-suraboina-5b45a92a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Krishna_Sahithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
